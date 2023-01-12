@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @neil-glydways
+- 👀 I’m interested in all things autonomy, and I was a mechanical engineer in a former life, so I like building stuff too.  
+- 🌱 I’m currently learning where I can contribute best at Glydways.
+- 💞️ I’m looking to collaborate on Autonomy software and simulation systems.  
+- 📫 How to reach me: neil@glydways.com
