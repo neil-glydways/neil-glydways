@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @neil-glydways
 - 👀 I’m interested in all things autonomy, and I was a mechanical engineer in a former life, so I like building stuff too.  
-- 🌱 I am the team lead for the Perception and Localization team at Glydways.  We have an awesome team!
+- 🌱 I am the team lead for the Localization team at Glydways.  We have an awesome team!
 - 💞️ I’m looking to collaborate on Autonomy software and simulation systems.  
 - 📫 Write me at my glydways email account.  
